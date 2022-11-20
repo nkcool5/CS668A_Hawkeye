@@ -1,5 +1,15 @@
 # CS668A: Practical Cyber Security For Cyber Practitioners Hawkeye Final Project
 
+Directory Structure:
+```
+    ├── CS668A_Hawkeye_Group_Project_demo.mp4          # Demo video for final project
+    ├── OS-Vulnerability                               # OS-Vulnerability script executes and gives the root access
+    ├── README.md                                      # Readme file
+    ├── audit_mitre.rules                              # auditd rule mapped with mitre attack matrix
+    ├── createUser.py                                  # For SQL injection attack
+    ├── presentation.pptx                              # Presentation for final project
+    └── systemd1.sh                                    # Malicious script to create persistence as a service in the machine and exfilterate the data from the victim machine
+```
 
 
 
